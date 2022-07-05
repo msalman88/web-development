@@ -20,5 +20,8 @@
   "homepage": "https://github.com/msalman88/web-development#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
   }
 }
